@@ -1,2 +1,0 @@
-Name: Pencil, Price: 15, Quantity: 10
-Name: Apple Juice, Price: 15, Quantity: 2

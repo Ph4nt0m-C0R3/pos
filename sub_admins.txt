@@ -1,3 +1,0 @@
-subAdmin1,subAdmin1@123
-subAdmin2,subAdmin2@123
-subAdmin3,subAdmin3@123

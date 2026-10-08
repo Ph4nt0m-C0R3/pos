@@ -1,3 +1,0 @@
-Aung Myo Pyae,subAdmin1@123
-Yati,subAdmin2@123
-Ei Ei,subAdmin3@123

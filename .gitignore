@@ -1,0 +1,9 @@
+*.exe
+*.o
+*.obj
+/output/
+/.vscode/
+/inventory.txt
+/sub_admins.txt
+/receipt.txt
+/temp.txt
