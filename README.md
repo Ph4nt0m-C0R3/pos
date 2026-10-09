@@ -2,6 +2,14 @@
 
 A **Semester II console application** built with C++ for learning object-oriented programming, inventory management, and menu-driven transaction workflows. The project was developed as a group exercise at the University of Information Technology.
 
+## Screenshots
+
+![C++ Point-of-Sale & Inventory System — screenshot 1](docs/screenshots/POS-1.png)
+
+![C++ Point-of-Sale & Inventory System — screenshot 2](docs/screenshots/POS-2.png)
+
+![C++ Point-of-Sale & Inventory System — screenshot 3](docs/screenshots/POS-3.png)
+
 ## Features
 
 - Product records with a name, price, and available quantity.
