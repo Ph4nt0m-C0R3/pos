@@ -2,6 +2,10 @@
 
 A **Semester II console application** built with C++ for learning object-oriented programming, inventory management, and menu-driven transaction workflows. The project was developed as a group exercise at the University of Information Technology.
 
+**Project type:** Group project (solo developed)
+
+**Project leader:** Aung Myo Pyae
+
 **Development:** This C++ POS application was assigned as group coursework. Aung Myo Pyae implemented the project individually.
 
 ## Screenshots
