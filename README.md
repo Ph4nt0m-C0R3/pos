@@ -2,6 +2,8 @@
 
 A **Semester II console application** built with C++ for learning object-oriented programming, inventory management, and menu-driven transaction workflows. The project was developed as a group exercise at the University of Information Technology.
 
+**Development:** This C++ POS application was assigned as group coursework. Aung Myo Pyae implemented the project individually.
+
 ## Screenshots
 
 ![C++ Point-of-Sale & Inventory System — screenshot 1](docs/screenshots/POS-1.png)
@@ -83,4 +85,4 @@ This project demonstrates classes, vectors, control flow, streams, file I/O, and
 
 ## Credits
 
-Semester II C++ group project, presented in the program as Dynamic Pentagram / Group IV. Aung Myo Pyae is a project contributor. Duplicate identical copies of POS.cpp have been consolidated into one source file.
+Semester II C++ group project, presented in the program as Dynamic Pentagram / Group IV. The C++ implementation was written individually by Aung Myo Pyae. Duplicate identical copies of POS.cpp have been consolidated into one source file.
